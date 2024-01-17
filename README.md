@@ -79,6 +79,7 @@ Agregar archivo README.md. El Código, los comentarios y docstrings deben estar 
 
 Para python dentro de una aplicación web2py:
 
+```
 
 controllers
 cron
@@ -96,6 +97,7 @@ modules/system
 modules/templates
 modules/utils
 ...
+```
 
 Para typescript dentro de una aplicación web2py, lo mismo pero reemplazar "modules" por "src".
 
