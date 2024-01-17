@@ -15,7 +15,7 @@
 - PostgreSQL 
 - Docker
 
-**Salario:** Entre **$3,500,000** y **$4,500,000**, dependiendo de habilidades y experiencia.
+**Salario:** Entre **$2,500,000** y **$4,500,000**, dependiendo de habilidades y experiencia.
 
 **Descripción del trabajo:** Buscamos un desarrollador Python Full Stack apasionado y con experiencia para unirse a nuestro equipo. El candidato ideal debe tener experiencia en desarrollo web utilizando Python con el framework web2py, HTML, JavaScript, TypeScript, React, CSS, y manejo de bases de datos con PostgreSQL. También es crucial la experiencia con Docker.
 
