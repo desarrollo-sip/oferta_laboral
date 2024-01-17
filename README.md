@@ -69,7 +69,7 @@ Crear un Dockerfile para construir una imagen del proyecto. Desarrollar un archi
 
 ###### Control de Calidad de Código:
 
-Agrega tipado de datos en todos los agumentos y retornos de funciones python y typescript.
+Agrega tipado de datos en todos los argumentos y retornos de funciones python y typescript.
 Utilizar herramientas como black, flake8, pylint, bandit para Python, y ESLint para TypeScript. Asegurar que todo el código cumple con los estándares de calidad y seguridad establecidos.
 
 ###### Documentación:
