@@ -17,16 +17,30 @@
 
 **Salario:** Entre **$1,600,000** y **$4,500,000**, dependiendo de habilidades y experiencia.
 
-**Descripción del trabajo:** Buscamos varios desarrolladores Python Full Stack apasionados y con experiencia para unirse a nuestro equipo. El candidato ideal debe tener experiencia en desarrollo web utilizando Python con el **framework web2py**, HTML, JavaScript, TypeScript, React, CSS, y manejo de bases de datos con PostgreSQL. También es crucial la experiencia con Docker.
+**Descripción del trabajo:** Estamos en la búsqueda de desarrolladores Python Full Stack entusiastas y experimentados para expandir nuestro equipo. El perfil ideal para este rol es alguien con profundo conocimiento y experiencia práctica en desarrollo web, utilizando tecnologías como Python y el **framework web2py**, además de HTML, JavaScript, TypeScript, React, CSS, y gestión de bases de datos con PostgreSQL.
 
-- Trabajamos en remoto 44 horas a la semana, el horario de trabajo es: Lunes a viernes, de 8:00 am - 1:00pm, y de 2:00 pm a 6:00 pm
-- Necesitas solo una conexión estable a internet y un explorador web, se recomienda tener una conexión de internet auxiliar por ejemplo en el celular en caso de que la principal tenga cortes.
+**Responsabilidades:**
+
+- Desarrollo y mantenimiento de funcionalidades en proyectos existentes.
+- Creación de nuevas aplicaciones o servicios desde cero.
+- Diseño e implementación de tests unitarios y de integración para asegurar la calidad y el rendimiento de las aplicaciones.
+- Proporcionar soporte técnico a clientes, garantizando una experiencia de usuario óptima.
+
+**Condiciones de Trabajo:**
+
+- Modalidad de trabajo remoto, con un compromiso de 44 horas semanales. El horario está establecido de lunes a viernes, dividido en jornadas de 8:00 am a 1:00 pm y de 2:00 pm a 6:00 pm.
+- Es indispensable contar con una conexión a internet estable. Recomendamos disponer de una alternativa de conexión a internet, como datos móviles, para asegurar la continuidad del trabajo ante posibles interrupciones del servicio principal.
+- Nuestro entorno laboral se basa en servidores virtuales completamente equipados con todas las herramientas esenciales para el desarrollo de software. Esto significa que lo único que necesitas para sumergirte en tu trabajo es un navegador web. Esta configuración permite un acceso remoto fluido y eficiente, facilitando que te concentres en innovar y programar sin preocuparte por la configuración del entorno de desarrollo.
+
+Esta oportunidad es ideal para desarrolladores que buscan desafíos constantes y están dispuestos a sumergirse en proyectos innovadores, trabajando en un ambiente dinámico y colaborativo. Si estás listo para llevar tu carrera al siguiente nivel, ¡te invitamos a unirte a nuestro equipo!
 
 ###### Modalidades de Contratación
 - **Fase Inicial:** Inicio con un contrato de prueba de 3 meses, permitiendo una evaluación mutua de compatibilidad y desempeño.
 - **Contratación a Largo Plazo:** Según los resultados y el desempeño observado, se procederá a ofrecer un contrato de 4, 8 o 12 meses con posibilidad de extensión a término indefinido, afianzando así una relación laboral duradera y estable.
 
-**Convocatoria a la Oferta Laboral:** Para aquellos interesados en sumarse a nuestro equipo, es requisito indispensable completar una evaluación de competencias. Esta evaluación está diseñada no solo para medir tus habilidades y conocimientos previos, sino también para brindarte una preparación integral, familiarizándote con las herramientas, frameworks y metodologías que constituyen la base de nuestro trabajo diario. Considera esta evaluación como una oportunidad de aprendizaje autónomo que te equipará con todo lo necesario para desempeñarte de manera eficaz y productiva en tu posible futuro rol dentro de nuestra empresa.
+**Convocatoria a la Oferta Laboral:** 
+- Para aquellos interesados en sumarse a nuestro equipo, es requisito indispensable completar una evaluación de competencias. Esta evaluación está diseñada no solo para medir tus habilidades y conocimientos previos, sino también para brindarte una preparación integral, familiarizándote con las herramientas, frameworks y metodologías que constituyen la base de nuestro trabajo diario. Considera esta evaluación como una oportunidad de aprendizaje autónomo que te equipará con todo lo necesario para desempeñarte de manera eficaz y productiva en tu posible futuro rol dentro de nuestra empresa.
+- Esta convocatoria está abierta tanto para desarrolladores experimentados como para aquellos que están iniciando su carrera, que deseen demostrar su capacidad de aprendizaje rápido, adaptabilidad ante nuevos retos y un genuino interés en crecer profesionalmente dentro de esta posición. Buscamos individuos motivados por el desafío, dispuestos a explorar nuevas tecnologías y a contribuir con su creatividad e innovación al equipo.
 
 ### **Prueba de Conocimiento - Proyecto:** Sistema de Gestión Escolar
 
