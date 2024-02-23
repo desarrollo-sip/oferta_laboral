@@ -24,7 +24,7 @@
 
 ###### Modalidades de Contratación
 - **Fase Inicial:** Inicio con un contrato de prueba de 3 meses, permitiendo una evaluación mutua de compatibilidad y desempeño.
-- **Contratación a Largo Plazo:** Según los resultados y el desempeño observado, se procederá a ofrecer un contrato de 1 año con posibilidad de extensión a término indefinido, afianzando así una relación laboral duradera y estable.
+- **Contratación a Largo Plazo:** Según los resultados y el desempeño observado, se procederá a ofrecer un contrato de 4, 8 o 12 meses con posibilidad de extensión a término indefinido, afianzando así una relación laboral duradera y estable.
 
 **Convocatoria a la Oferta Laboral:** Para aquellos interesados en sumarse a nuestro equipo, es requisito indispensable completar una evaluación de competencias. Esta evaluación está diseñada no solo para medir tus habilidades y conocimientos previos, sino también para brindarte una preparación integral, familiarizándote con las herramientas, frameworks y metodologías que constituyen la base de nuestro trabajo diario. Considera esta evaluación como una oportunidad de aprendizaje autónomo que te equipará con todo lo necesario para desempeñarte de manera eficaz y productiva en tu posible futuro rol dentro de nuestra empresa.
 
