@@ -6,7 +6,7 @@
 
 ### Conocimientos requeridos:
 
-- Python y el framework Web2py. 
+- Python y el **framework web2py**. 
 - HTML 
 - JavaScript 
 - TypeScript
@@ -59,7 +59,7 @@ El proyecto consiste en desarrollar una aplicación web para gestionar operacion
 - En python: Implementa y usa las Clases Repository que permitan interactuar con cada tabla donde se requiera agregar o actualizar datos a la base de datos.
 - En Typescript: Debes implementar las clases de Repository las cuales llaman al api para el registro de estudiantes, Clase de Modelo para modelar el formulario, Clase de renderer para generar el html del modelo de formulario creado, Clase Factory para crear instancias del modelo de formulario, Clase de controller para atender los eventos del formulario y ejecutar las acciones necesarias.
 
-##### Gestión de Salones y Materias (Web2py sqlform.grid):
+##### Gestión de Salones y Materias (Python Web2py sqlform.grid):
 
 - Utilizar sqlform.grid para crear vistas CRUD para la administración de las tablas como: Salon, Materia. 
 - Aplicar ordenamiento en las tablas por: nombre de salon, nombre de la materia.
