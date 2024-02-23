@@ -21,7 +21,7 @@
 
 - Trabajamos en remoto 44 horas a la semana, el horario de trabajo es: Lunes a viernes, de 8:00 am - 1:00pm, y de 2:00 pm a 6:00 pm
 - Necesitas solo una conexión estable a internet y un explorador web, se recomienda tener una conexión de internet auxiliar por ejemplo en el celular en caso de que la principal tenga cortes.
-- 
+
 ###### Modalidades de Contratación
 - **Fase Inicial:** Inicio con un contrato de prueba de 3 meses, permitiendo una evaluación mutua de compatibilidad y desempeño.
 - **Contratación a Largo Plazo:** Según los resultados y el desempeño observado, se procederá a ofrecer un contrato de 1 año con posibilidad de extensión a término indefinido, afianzando así una relación laboral duradera y estable.
