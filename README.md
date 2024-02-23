@@ -38,19 +38,19 @@ El proyecto consiste en desarrollar una aplicación web para gestionar operacion
 
 #### Módulos y Requisitos Específicos:
 
-##### Registro de Estudiantes (Python, TypeScript, Clases Repository, de Modelo, Factory, Renderer, Controller):
+##### Registro de Estudiantes (Python Web2py, TypeScript, Clases Repository, de Modelo, Factory, Renderer, Controller):
 
 - Desarrollar un formulario de registro de estudiantes utilizando completamente TypeScript.   
 - Implementar la validación de datos y la comunicación con el backend. Desarrollar una API que maneje las solicitudes para el registro de los estudiantes usando un controlador en web2py.
 - En python: Implementa y usa las Clases Repository que permitan interactuar con cada tabla donde se requiera agregar o actualizar datos a la base de datos.
 - En Typescript: Debes implementar las clases de Repository las cuales llaman al api para el registro de estudiantes, Clase de Modelo para modelar el formulario, Clase de renderer para generar el html del modelo de formulario creado, Clase Factory para crear instancias del modelo de formulario, Clase de controller para atender los eventos del formulario y ejecutar las acciones necesarias.
 
-##### Gestión de Salones y Materias (sqlform.grid):
+##### Gestión de Salones y Materias (Web2py sqlform.grid):
 
 - Utilizar sqlform.grid para crear vistas CRUD para la administración de las tablas como: Salon, Materia. 
 - Aplicar ordenamiento en las tablas por: nombre de salon, nombre de la materia.
 
-##### Registro de Asistencia (Python, Javascript, Clases de Modelo, Factory, Singleton y Renderer):
+##### Registro de Asistencia (Python Web2py, Javascript, Clases de Modelo, Factory, Singleton y Renderer):
 
 - Crear clases de modelo separadas para Estudiante, Salón y Materia.
 - Utilizar el patrón de diseño Factory para crear instancias de los modelos Estudiante, Salón y Materia.
