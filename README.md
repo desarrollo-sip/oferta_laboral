@@ -10,7 +10,6 @@
 - HTML 
 - JavaScript 
 - TypeScript
-- React
 - CSS 
 - PostgreSQL 
 - Docker
